@@ -1,0 +1,12 @@
+{
+  "name": "react-native-enhanced-timeline",
+  "main": "index.js",
+  "author": "Angel Rodríguez <angelmanuelrs@gmail.com> (https://github.com/angel-rs)",
+  "version": "1.0.2",
+  "scripts": {
+    "test": "TBD"
+  },
+  "peerDependencies": {
+    "react-native-svg": "*"
+  }
+}
