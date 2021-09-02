@@ -3,7 +3,7 @@
   "description": "Timeline component for React Native",
   "main": "lib/index.js",
   "author": "Angel Rodríguez <angelmanuelrs@gmail.com> (https://github.com/angel-rs)",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "scripts": {
     "test": "TBD"
   },
