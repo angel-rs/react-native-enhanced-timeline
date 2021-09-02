@@ -1,12 +1,33 @@
 {
   "name": "react-native-enhanced-timeline",
-  "main": "index.js",
+  "description": "Timeline component for React Native",
+  "main": "lib/index.js",
   "author": "Angel Rodríguez <angelmanuelrs@gmail.com> (https://github.com/angel-rs)",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "scripts": {
     "test": "TBD"
   },
+  "homepage": "https://github.com/angel-rs/react-native-enhanced-timeline",
+  "bugs": {
+    "url": "https://github.com/angel-rs/react-native-enhanced-timeline/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:angel-rs/react-native-enhanced-timeline.git"
+  },
+  "keywords": [
+    "react-native",
+    "timeline",
+    "flatlist",
+    "schedule",
+    "react native component",
+    "ios",
+    "android",
+    "component",
+    "enhanced"
+  ],
   "peerDependencies": {
+    "react-native": ">= 0.58.2",
     "react-native-svg": "*"
   }
 }

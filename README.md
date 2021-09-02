@@ -82,4 +82,4 @@ To be added, feel free to contribute!
 
 ## 📝 License
 
-MIT
+[MIT](./LICENSE)
